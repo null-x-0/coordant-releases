@@ -21,7 +21,7 @@ Requires macOS 13 or later.
 
 1. Open the [latest release](https://github.com/null-x-0/coordant-releases/releases/latest). Choose the DMG ending in **mac-arm64** for an Apple silicon Mac, or **mac-x64** for an Intel Mac. Find your chip under Apple menu → About This Mac.
 2. Open the DMG and drag **Coordant** into **Applications**.
-3. Open Coordant. Install and sign in to a supported CLI through Settings, then open a project or start a general conversation.
+3. Install Codex CLI or Grok Build using the provider's setup instructions. Open Coordant, confirm the CLI is detected in Settings, and sign in to your account. Then open a project or start a general conversation.
 
 Coordant uses your own provider accounts. A GitHub account is not required to download the app or receive updates.
 
