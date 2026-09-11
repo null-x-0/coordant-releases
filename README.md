@@ -10,10 +10,11 @@
 
 Coordant brings your coding agents, terminals, and project tools into a desktop workspace.
 
-- Work with Codex, Grok, OpenCode, and Cursor using your own CLI accounts.
+- Work with Codex, Grok, OpenCode, Cursor, and Claude Code using your own CLI accounts.
 - Switch between chat and terminal views of the same conversation.
 - Arrange sessions side by side and coordinate work across agents.
 - Keep browser previews, Git tools, schedules, and usage close to your work.
+- Answer agent questions in Chat, track session tokens and reference costs, and use the coffee button to keep work running while the screen is locked.
 - Choose among nineteen palettes, including Coordant Dark, Coordant Light, and Obsidian, and set your preferred time zone and regional format in Settings → Appearance.
 
 ## Install
@@ -22,7 +23,7 @@ Requires macOS 13 or later.
 
 1. Open the [latest release](https://github.com/null-x-0/coordant-releases/releases/latest). Choose the DMG ending in **mac-arm64** for an Apple silicon Mac, or **mac-x64** for an Intel Mac. Find your chip under Apple menu → About This Mac.
 2. Open the DMG and drag **Coordant** into **Applications**.
-3. Open Settings and choose **Install CLI** for the provider you want to use, then sign in to your account. Existing CLI installations are detected automatically. Open a project or start a No project chat.
+3. Open Settings and choose **Install CLI** for the provider you want to use, then sign in to your account. Existing CLI installations are detected automatically. Open a project or start a No project chat. Some CLIs require a one-time workspace trust confirmation in Terminal.
 
 Coordant uses your own provider accounts. A GitHub account is not required to download the app or receive updates.
 
