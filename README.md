@@ -14,7 +14,7 @@ Coordant brings your coding agents, terminals, and project tools into a desktop 
 - Switch between chat and terminal views of the same conversation.
 - Arrange sessions side by side and coordinate work across agents.
 - Keep browser previews, Git tools, schedules, and usage close to your work.
-- Choose among eleven palettes and set your preferred time zone and regional format in Settings → Appearance.
+- Choose among eighteen palettes, including Coordant Dark and Coordant Light, and set your preferred time zone and regional format in Settings → Appearance.
 
 ## Install
 
