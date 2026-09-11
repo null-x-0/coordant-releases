@@ -10,7 +10,7 @@
 
 Coordant brings your coding agents, terminals, and project tools into a desktop workspace.
 
-- Work with Codex, Grok, and OpenCode using your own CLI accounts.
+- Work with Codex, Grok, OpenCode, and Cursor using your own CLI accounts.
 - Switch between chat and terminal views of the same conversation.
 - Arrange sessions side by side and coordinate work across agents.
 - Keep browser previews, Git tools, schedules, and usage close to your work.
@@ -21,7 +21,7 @@ Requires macOS 13 or later.
 
 1. Open the [latest release](https://github.com/null-x-0/coordant-releases/releases/latest). Choose the DMG ending in **mac-arm64** for an Apple silicon Mac, or **mac-x64** for an Intel Mac. Find your chip under Apple menu → About This Mac.
 2. Open the DMG and drag **Coordant** into **Applications**.
-3. Install Codex CLI, Grok Build, or OpenCode using the provider's setup instructions. Open Coordant, confirm the CLI is detected in Settings, and sign in to your account. Then open a project or start a general conversation.
+3. Open Settings and choose **Install CLI** for the provider you want to use, then sign in to your account. Existing CLI installations are detected automatically. Open a project or start a No project chat.
 
 Coordant uses your own provider accounts. A GitHub account is not required to download the app or receive updates.
 
@@ -31,7 +31,7 @@ This early release is signed with Coordant's release identity but is not Apple-n
 
 ## Updates
 
-Coordant checks for new releases when it opens and periodically while running. Use **Settings → Updates**, or choose **Check for updates** at the bottom left, to check manually. Choose **Download update**, then **Restart to update** when ready. Stop running sessions first; your projects and conversation history stay in place.
+Coordant checks for new releases when it opens and periodically while running. Use **Settings → Updates**, or click the version number at the bottom left, to check manually. Choose **Download update**, then **Restart to update** when ready. Coordant asks you to finish active work and closes idle sessions automatically before restarting. Your projects and conversation history stay in place.
 
 ## About this repository
 
